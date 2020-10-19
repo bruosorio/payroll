@@ -1,0 +1,16 @@
+input {
+    width: 100%;
+}
+
+div {
+
+    background-color: rgb(0, 140, 255);
+    color: white;
+    border-width: 30px;
+    padding: 40px 20px;
+}
+
+div.select {
+    width: 100%;
+    border-radius: 4px;
+}
