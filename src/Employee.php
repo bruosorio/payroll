@@ -2,7 +2,7 @@
 
 
 
-class abstract Employee {
+class Employee {
 
     private $funcionario;
     private $shore;
